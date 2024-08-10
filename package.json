@@ -28,7 +28,7 @@
   "license": "BSD",
   "dependencies": {
     "bluebird": "^3.3.4",
-    "cheerio": "^0.20.0",
+    "cheerio": "^1.0.0",
     "clean-css": "^3.4.10",
     "commander": "^2.9.0",
     "html-minifier": "^2.0.0",
